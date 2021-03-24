@@ -1,7 +1,5 @@
 # EVilm1-Bot - SHCK BOT
-<img src="https://cdn.discordapp.com/attachments/821097818378469448/824366997810053150/built-by-evilm1svg.svg" width="178" height="35"> [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-
+<img src="https://cdn.discordapp.com/attachments/821097818378469448/824374382179647510/built-by-EVILM1.svg" width="178" height="35">  <img src="https://cdn.discordapp.com/attachments/821097818378469448/824386597264293888/made-with-DISCORDJS.svg" width="263,66" height="35">
 
 ## Installations :
 **Faire les majs :** `sudo apt update` et `sudo apt-get upgrade`
