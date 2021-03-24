@@ -20,6 +20,13 @@
 ## Installer les dépendances :
 Dans le répertoire du bot : `npm install`
 
+## Configurer le bot :
+Pour configurer le token, le prefix et le salon des logs, éditer le fichier [config.json](http://github.com) :
+```json
+"token": "token_here",
+"prefix": "/",
+"channelLogs": "id_channel",
+```
 
 ## Lancer le bot avec PM2 :
 **Démarrer un process :** `pm2 start index.js --name <app_name>` (dans le répertoire)
