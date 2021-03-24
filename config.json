@@ -1,0 +1,9 @@
+{
+    "token": "your_token",
+    "prefix": "/",
+    "channelLogs": "id_channel",
+    "greeting": {
+        "channel": "748837388473729024",
+        "role": "798281103688335420"
+    }
+}
