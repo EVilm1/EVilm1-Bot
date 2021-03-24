@@ -1,5 +1,7 @@
 # EVilm1-Bot - SHCK BOT
-Bot Discord développé par **EVilm1** pour le serveur Discord **SHCK**
+<img src="https://cdn.discordapp.com/attachments/821097818378469448/824366997810053150/built-by-evilm1svg.svg" width="178" height="35"> [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+
 
 ## Installations :
 **Faire les majs :** `sudo apt update` et `sudo apt-get upgrade`
